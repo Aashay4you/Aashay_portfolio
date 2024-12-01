@@ -10,6 +10,6 @@ Setup:
 2) install npm first using npm install npm --global // Updates the ‘CLI’ client
 3) also install next using npm if showing 'next' is not recognized as an internal or external command
 4) npm install next@13.4.8 (INSTALL 13.4.8 VERSION AS OTHER VERSION MAKES SOME UNEXPECTED CHANGES AND DOESNT ALLOW FOR THE EXPERIENCE SECTION TO SHOW)
-5)to run locally use npm run dev
-6)then click on the host link
-7)Contact me wont work until deployed in aws or heroku web service
+5) to run locally use npm run dev
+6) then click on the host link
+7) Contact me wont work until deployed in aws or heroku web service
