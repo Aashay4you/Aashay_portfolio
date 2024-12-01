@@ -1,5 +1,6 @@
 # PLEASE READ   (Aashay_portfolio) NEXT@13.4.8
-# DEPLOYED IN AWS : https://main.d3berco1tz9z1b.amplifyapp.com/ 
+# DEPLOYED IN AWS : 
+# https://main.d3berco1tz9z1b.amplifyapp.com/
 Made this using react typescript nextjs and framer
 
 Due to some unknown reason the favicon icon is not able to show the particular change in some system when deployed locally but on aws deployment showing no error.
