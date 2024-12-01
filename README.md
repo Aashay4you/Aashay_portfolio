@@ -1,4 +1,4 @@
-# Aashay_portfolio
+# Aashay_portfolio (NOT DEPLOYED YET USING AWS DUE TO SOME TECHNICAL GLITCH IN ACCOUNT)
 Made this using react typescript nextjs and framer
 
 Due to some unknown reason the favicon icon is not able to show the particular change in some system.
