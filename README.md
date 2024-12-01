@@ -1,11 +1,11 @@
 # PLEASE READ   (Aashay_portfolio) NEXT@13.4.8
-(NOT DEPLOYED YET USING AWS DUE TO SOME TECHNICAL GLITCH IN ACCOUNT)
+# DEPLOYED IN AWS : https://main.d3berco1tz9z1b.amplifyapp.com/ 
 Made this using react typescript nextjs and framer
 
-Due to some unknown reason the favicon icon is not able to show the particular change in some system.
-DO USE THE IMAGE SRC CODE IN THE PUBLIC OR APP FOLDER TO CORRECT THE MISTAKE
+Due to some unknown reason the favicon icon is not able to show the particular change in some system when deployed locally but on aws deployment showing no error.
+DO USE THE IMAGE SRC CODE IN THE PUBLIC OR APP FOLDER TO CORRECT THE MISTAKE.
 
-Setup:
+Setup to run in local:
 1) nodejs should be installed in system
 2) install npm first using npm install npm --global // Updates the ‘CLI’ client
 3) also install next using npm if showing 'next' is not recognized as an internal or external command

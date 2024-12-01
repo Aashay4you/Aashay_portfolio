@@ -33,7 +33,7 @@ export default function Experience() {
               contentArrowStyle={{
                 borderRight:
                   theme === "light"
-                    ? "0.8rem solid #9ca3af"
+                    ? "0.5rem solid #9ca3af"
                     : "5rem solid rgba(255, 255, 255, 0.5)",
               }}
               date={item.date}
