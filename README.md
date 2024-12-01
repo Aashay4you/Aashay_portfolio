@@ -1,4 +1,4 @@
-# Aashay_portfolio 
+# PLEASE READ   (Aashay_portfolio) 
 (NOT DEPLOYED YET USING AWS DUE TO SOME TECHNICAL GLITCH IN ACCOUNT)
 Made this using react typescript nextjs and framer
 
